@@ -1,0 +1,13 @@
+tau1
+tau2
+tau3
+tau4
+g1
+g2
+g3
+g4
+tau1_g1
+tau2_g2
+tau3_g3
+tau4_g4
+tau_ratio
