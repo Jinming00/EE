@@ -1,0 +1,35 @@
+{
+  "experiment_config": {
+    "original_features": 96,
+    "selected_features": 8,
+    "prediction_horizons": 16,
+    "shap_sample_size": 1378
+  },
+  "performance_summary": {
+    "stage1_overall_rmse": 0.1368741736918105,
+    "stage2_overall_rmse": 0.12816410376427131,
+    "rmse_improvement_percent": -7.798866968323889,
+    "stage1_overall_cr": 55.93851976367969,
+    "stage2_overall_cr": 57.087265977811576,
+    "cr_improvement_points": 1.2558232605522295
+  },
+  "feature_analysis": {
+    "top_5_features": {
+      "t-3": 16,
+      "t-2": 16,
+      "t-1": 16,
+      "t-4": 14,
+      "t-5": 13
+    },
+    "time_distribution": {
+      "recent_features_count": 10,
+      "middle_features_count": 0,
+      "distant_features_count": 0
+    }
+  },
+  "recommendations": {
+    "use_stage2_models": true,
+    "performance_acceptable": false,
+    "feature_reduction_successful": true
+  }
+}
