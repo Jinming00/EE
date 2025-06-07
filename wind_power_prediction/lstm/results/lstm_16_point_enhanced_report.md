@@ -28,11 +28,7 @@
 - Learning Rate: 0.01
 - Step-wise CR Tracking: Enabled
 
-## Overall Performance Metrics (Test Set)
-- MSE: 0.017330
-- RMSE: 0.131644
-- MAE: 0.095561
-- CR: 53.74%
+
 
 ## Step-wise Detailed Metrics
 
